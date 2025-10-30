@@ -1,10 +1,5 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=20&section=header)
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&background=FF56FF00&center=true&width=435&lines=Tech+Educator+|+Python" alt="Typing SVG" /></a>
-
-  
 ---
 
 # 👋 Salve Devs !
@@ -95,7 +90,6 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
 
 <div align="center" width = 100 height = 100>
   
-  ![gif](https://github.com/user-attachments/assets/54828ed8-1e3b-45ca-875c-8b37ca47ac4b)
 > _"“Do, or do not. There is no “try”"_ 👽
 > — **Yoda**
 
@@ -110,7 +104,7 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
 <p align="center"><i> Thanks for visiting ! 🖖 </i></p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ricardolimaa29.ricardolimaa29&left_color=light&right_color=cornflowerblue"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitor-procopio.vitor-procopio&left_color=light&right_color=cornflowerblue"  />
 </div>
 
 
