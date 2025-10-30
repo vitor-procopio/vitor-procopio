@@ -81,35 +81,3 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
-
-
-
-<div align="center" width = 100 height = 100>
-  
-> _"“Do, or do not. There is no “try”"_ 👽
-> — **Yoda**
-
-</div>
-
-<br>
-<br>
-<br>
-
----
-
-<p align="center"><i> Thanks for visiting ! 🖖 </i></p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vitor-procopio.vitor-procopio&left_color=light&right_color=cornflowerblue"  />
-</div>
-
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
-
-</div>
-
