@@ -40,11 +40,11 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
  # 📈 Estatísticas: 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-procopio&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-procopio&theme=neon" alt="Github estatísticas"/>
   <br>
   <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardolimaa29&theme=2077"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-procopio&theme=2077"/>
 </div>
 <br>
 <br>
@@ -58,8 +58,6 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
@@ -76,7 +74,7 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
 <br>
 <div align="center">
   <a href="https://open.spotify.com/intl-pt/track/7KwZNVEaqikRSBSpyhXK2j">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Músicas recentemente tocadas" width="500"/>
   </a>
 </div>
 
@@ -84,9 +82,9 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
 </picture>
 
 
