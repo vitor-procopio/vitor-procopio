@@ -68,6 +68,6 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
  
 <br>
 <div align="center">
-  <a href="https://open.spotify.com/intl-pt/track/7KwZNVEaqikRSBSpyhXK2j">
+  <a href="https://open.spotify.com/user/u8ig2m61uiowk46ve53eqn5db">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Músicas recentemente tocadas" width="500"/>
   </a></div>
