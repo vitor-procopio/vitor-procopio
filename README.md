@@ -71,10 +71,3 @@ Como aluno da Fábrica de Programadores, tenho me dedicado ao estudo de diversas
   <a href="https://open.spotify.com/intl-pt/track/7KwZNVEaqikRSBSpyhXK2j">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Músicas recentemente tocadas" width="500"/>
   </a></div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitor-procopio/vitor-procopio/output/pacman-contribution-graph.svg">
-</picture>
